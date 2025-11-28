@@ -1,0 +1,8 @@
+{
+  "name": "the 111",
+  "description": "A digital brutalist AR game. Scan reality, solve entropy puzzles, and stabilize the Aethel Network.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
